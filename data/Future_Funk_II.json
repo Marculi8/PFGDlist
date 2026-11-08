@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 59626284,
     "name": "Future Funk II",
     "author": "JonathanGD",
     "creators": [],
@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        
+        {
+            "user": "Marculi8",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=CNElqWJUWMo&t=151s"
+        }
     ]
 }
