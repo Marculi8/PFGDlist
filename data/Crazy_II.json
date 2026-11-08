@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-         {
+        {
             "user": "Marculi8",
             "percent": 100,
             "hz": 240,
@@ -18,7 +18,7 @@
             "user": "Mário",
             "percent": 100,
             "hz": 240,
-            "link": "https://www.youtube.com/watch?v=_6NbsM7oH3w",
+            "link": "https://www.youtube.com/watch?v=_6NbsM7oH3w"
         }
     ]
 }
