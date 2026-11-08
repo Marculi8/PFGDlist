@@ -2,9 +2,11 @@
   "id": 9145341,
   "name": "8o",
   "author": "Zobros",
-  "creators":"[Etzer]",
+  "creators": [
+    "Etzer"
+  ],
   "verifier": "Marculi8",
-  "verification": "https://www.youtube.com/watch?v=QLQ2lDR-Q_4&list=PLxaADmdooCNs36LYNlpSdG7HuMbvqVO62&index=39",
+  "verification": "https://www.youtube.com/watch?v=QLQ2lDR-Q_4",
   "percentToQualify": 100,
   "password": "Free To Copy",
   "records": []
