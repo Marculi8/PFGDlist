@@ -1,11 +1,13 @@
 {
     "id": 0,
     "name": "Devotion",
-    "author": "Unknown",
+    "author": "Sas4",
     "creators": [],
     "verifier": "Sas4",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=dsFPl0nOdSE&list=RDdsFPl0nOdSE&start_radio=1",
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        
+    ]
 }
