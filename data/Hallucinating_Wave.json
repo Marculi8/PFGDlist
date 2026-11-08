@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        
+        {
+            "user": "Marculi8",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=-D3cjHu6oqs&list=RD-D3cjHu6oqs&start_radio=1"
+        }
     ]
 }
