@@ -4,8 +4,15 @@
   "author": "Endlevel",
   "creators": [],
   "verifier": "Marculi8",
-  "verification": "",
+  "verification": "https://www.youtube.com/watch?v=V_omG_FAQyU",
   "percentToQualify": 100,
   "password": "Free To Copy",
-  "records": []
+  "records": [
+      {
+            "user": "Mig_gnomo",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=aux9jUS7czk"
+        }
+  ]
 }
