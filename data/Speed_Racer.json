@@ -4,8 +4,15 @@
   "author": "ZenthicAlpha",
   "creators": [],
   "verifier": "Marculi8",
-  "verification": "",
+  "verification": "https://www.youtube.com/watch?v=uQhQtLSj5RA",
   "percentToQualify": 100,
   "password": "Free To Copy",
-  "records": []
+  "records": [
+      {
+            "user": "ph-carrillo",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://youtu.be/VE27aPGVFtE?si=rsLEbNbdx-XHBr3Q"
+        }
+  ]
 }
