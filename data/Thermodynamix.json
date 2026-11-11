@@ -4,8 +4,15 @@
   "author": "flash",
   "creators": [],
   "verifier": "Marculi8",
-  "verification": "",
+  "verification": "https://www.youtube.com/watch?v=6CncAqv9ajg&list=PLxaADmdooCNs36LYNlpSdG7HuMbvqVO62&index=58",
   "percentToQualify": 100,
   "password": "Free To Copy",
-  "records": []
+  "records": [
+      {
+            "user": "Mig_gnomo",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=6hPD_m8U1-U&t=30s"
+        }
+  ]
 }
