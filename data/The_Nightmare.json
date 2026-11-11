@@ -4,8 +4,15 @@
   "author": "Jax",
   "creators": [],
   "verifier": "Marculi8",
-  "verification": "",
+  "verification": "https://www.youtube.com/watch?v=1mEMMjykPXE&list=PLxaADmdooCNs36LYNlpSdG7HuMbvqVO62&index=52",
   "percentToQualify": 100,
   "password": "Free To Copy",
-  "records": []
+  "records": [
+      {
+            "user": "ph-carrillo",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=1mEMMjykPXE&list=PLxaADmdooCNs36LYNlpSdG7HuMbvqVO62&index=52"
+        }
+  ]
 }
