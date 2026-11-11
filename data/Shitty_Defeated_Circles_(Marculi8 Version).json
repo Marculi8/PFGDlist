@@ -4,8 +4,15 @@
   "author": "Marculi8",
   "creators": [],
   "verifier": "Marculi8",
-  "verification": "",
+  "verification": "https://www.youtube.com/watch?v=2z7fWwy2T78",
   "percentToQualify": 100,
   "password": "Free To Copy",
-  "records": []
+  "records": [
+      {
+            "user": "Sas4",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=2z7fWwy2T78"
+        }
+  ]
 }
