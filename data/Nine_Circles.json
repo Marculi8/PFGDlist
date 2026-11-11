@@ -1,11 +1,24 @@
 {
   "id": 4284013,
-  "name": "Nine_Circles",
+  "name": "Nine Circles",
   "author": "Zobros",
   "creators": [],
-  "verifier": "Marculi8",
-  "verification": "",
+  "verifier": "Sas4",
+  "verification": "https://www.youtube.com/watch?v=DXclbrPMeFM",
   "percentToQualify": 100,
   "password": "Free To Copy",
-  "records": []
+  "records": [
+      {
+            "user": "Marculi8",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=7kJy9XhDAAE&t=1s"
+        },
+        {
+            "user": "Mig_gnomo",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=ZzDeMx8EC1g&t=5s"
+        }
+  ]
 }
