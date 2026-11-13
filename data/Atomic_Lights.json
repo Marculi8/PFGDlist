@@ -1,0 +1,36 @@
+{
+  "id": 4957691,
+  "name": "Atomic Lights",
+  "author": "AtomicRuby",
+  "creators": [],
+  "verifier": "Sas4",
+  "verification": "https://www.youtube.com/watch?v=1UCOBT6RQzc",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+            "user": "Marculi8",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=MYtpR7ihi5k"
+    },
+    {
+            "user": "Tarrfy",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=J9Nqp7FpxEM"
+    },
+    {
+            "user": "Mário",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=vP1BKEIc8vU"
+    },
+    {
+            "user": "Mignomo",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=1UCOBT6RQzc"
+    }
+  ]
+}
