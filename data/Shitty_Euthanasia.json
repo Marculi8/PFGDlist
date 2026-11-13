@@ -1,0 +1,24 @@
+{
+  "id": 0,
+  "name": "Shitty Euthanasia",
+  "author": "Sas4",
+  "creators": [],
+  "verifier": "Sas4",
+  "verification": "https://www.youtube.com/watch?v=EFlbIhCQ8kQ",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+            "user": "Marculi8",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=Xpuy8DVZCfk"
+    },
+    {
+            "user": "Tarrfy",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=vhGs5JUZzEs"
+    }
+  ]
+}
