@@ -1,0 +1,18 @@
+{
+    "id": 80433444,
+    "name": "Maymory",
+    "author": "ItzKiba",
+    "creators": [],
+    "verifier": "Mig_gnomo",
+    "verification": "https://www.youtube.com/watch?v=OJeJ956tLBg",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+      {
+            "user": "Mário",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=OJeJ956tLBg"
+        }
+    ]
+}
