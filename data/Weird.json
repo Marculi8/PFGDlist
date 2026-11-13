@@ -1,0 +1,18 @@
+{
+    "id": 76564776,
+    "name": "Weird",
+    "author": "llertt",
+    "creators": [],
+    "verifier": "Mig_gnomo",
+    "verification": "https://www.youtube.com/watch?v=ZhqZBsZ1YCo",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+      {
+            "user": "Mário",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=ZhqZBsZ1YCo"
+        }
+    ]
+}
