@@ -1,0 +1,18 @@
+{
+    "id": 7116121,
+    "name": "Problematic",
+    "author": "Dhafin",
+    "creators": [],
+    "verifier": "Mig_gnomo",
+    "verification": "https://www.youtube.com/watch?v=9CgYHatuN6M",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+      {
+            "user": "Mário",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=9CgYHatuN6M"
+        }
+    ]
+}
