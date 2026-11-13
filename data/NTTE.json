@@ -1,0 +1,18 @@
+{
+    "id": 103574402,
+    "name": "NTTE",
+    "author": "EnoOr4Real",
+    "creators": [],
+    "verifier": "Mig_gnomo",
+    "verification": "https://www.youtube.com/watch?v=KnT3TZemkSc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+      {
+            "user": "Mário",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://www.youtube.com/watch?v=KnT3TZemkSc"
+        }
+    ]
+}
